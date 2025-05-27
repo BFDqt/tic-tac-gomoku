@@ -1,0 +1,26 @@
+# 编译输出
+target/
+*.class
+
+# IDE文件
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# Maven构建文件（如果以后添加Maven支持）
+.mvn/
+mvnw
+mvnw.cmd
